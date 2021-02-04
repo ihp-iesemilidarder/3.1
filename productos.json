@@ -1,0 +1,23 @@
+[
+    {
+        "nombre":"Asus 34-HD",
+        "CPUs":4,
+        "ram (GB)":4,
+        "pantalla (pulgadas)":15,
+        "software":["Antivirus","SO Microsoft","Office 360"]
+    },
+    {
+        "nombre":"Razor 578-H",
+        "CPUs":8,
+        "ram (GB)":8,
+        "pantalla (pulgadas)":16,
+        "software":["Antivirus","SO Linux","Libre Office"]
+    },    
+    {
+        "nombre":"HP Pavilium 21s",
+        "CPUs":12,
+        "ram (GB)":16,
+        "pantalla (pulgadas)":17,
+        "software":["Antivirus","SO Ubuntu coret","Open Office"]
+    }
+]

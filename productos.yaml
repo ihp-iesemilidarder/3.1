@@ -1,0 +1,28 @@
+tabla:
+  producto:
+      nom: Asus 34-HB
+      cpu: 4 nuclis
+      ram: 4GB
+      pantalla: 15''
+      Software:
+        - Antivirus
+        - SO Microsoft
+        - Office 360
+  producto:
+      nom: Razor 578-H
+      cpu: 8 nuclis
+      ram: 8GB
+      pantalla: 16''
+      Software:
+        - Antivirus
+        - SO Linux
+        - Libre Office
+  producto:
+      nom: HP Pavilium 21s
+      cpu: 12 nuclis
+      ram: 16GB
+      pantalla: 17''
+      Software:
+        - Antivirus
+        - SO Ubuntu coret
+        - Open Office

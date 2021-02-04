@@ -1,0 +1,38 @@
+<tabla>
+    <producto>
+        <id>1</id>
+        <nombre>Asus 34-HB</nombre>
+        <cpus>4 nuclis</cpus>
+        <ram>4GB</ram>
+        <pantalla>15''</pantalla>
+        <software>
+            <app>Antivirus</app>
+            <app>SO Microsoft</app>
+            <app>Office 360</app>
+        </software>
+    </producto>
+    <producto>
+        <id>2</id>
+        <nombre>Razor 578-H</nombre>
+        <cpus>8 nuclis</cpus>
+        <ram>8GB</ram>
+        <pantalla>16''</pantalla>
+        <software>
+            <app>Antivirus</app>
+            <app>SO Linux</app>
+            <app>Libre Office</app>
+        </software>
+    </producto>
+    <producto>
+        <id>3</id>
+        <nombre>HP Pavillium 21s</nombre>
+        <cpus>12 nuclis</cpus>
+        <ram>16GB</ram>
+        <pantalla>17''</pantalla>
+        <software>
+            <app>Antivirus</app>
+            <app>SO Ubuntu Core</app>
+            <app>Open Office</app>
+        </software>
+    </producto>
+</tabla>
